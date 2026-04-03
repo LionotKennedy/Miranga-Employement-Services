@@ -1,0 +1,6 @@
+.menu_navbar{
+    display: flex;
+    text-align: center;
+    gap: inherit;
+    cursor: pointer;
+}
